@@ -30,48 +30,16 @@
 
 ---
 
-## 🔥 GitHub Statistics
+🔥 GitHub Statistics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=RGB+Mode+Activated;GitHub+Statistics;Keep+Learning+Keep+Building" /> </p>
 
----
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" /> </p>
 
-## 📊 3D Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" /> </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1"/>
-</p>
-
----
-
-## 🚀 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-<div align="center">
 
 ### ⚡ "Learning Today, Building Tomorrow" ⚡
 
